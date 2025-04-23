@@ -1,13 +1,17 @@
 <idea-plugin>
-  <id>monokai-pro-theme</id>
-  <name>Monokai Pro Theme</name>
-  <vendor url="https://subtheme.dev">Subtheme</vendor>
-  <version>1.10</version>
+  <id>monokai-pro-legacy</id>
+  <name>Monokai Pro Legacy Theme</name>
+  <vendor email="delta@deltalab.dev">DeltaLaboratory</vendor>
+  <version>1.11</version>
 
   <depends>com.intellij.modules.lang</depends>
   <idea-version since-build="191.0"/>
 
   <change-notes><![CDATA[
+    <h3>1.11</h3>
+    <ul>
+      <li>Updated plugin name and id, description</li>
+    </ul>
     <h3>1.10</h3>
     <ul>
       <li>Updated dropdown selected background color</li>
@@ -73,19 +77,19 @@
 
   <description>
   <![CDATA[
-  The unofficial Monokai Pro theme, adapted for JetBrains by <a href="https://subtheme.dev">Subtheme</a>. This plugin includes the default theme, classic theme, and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original designer: <a href="https://monokai.pro">https://monokai.pro</a>.
+  The <b>unofficial Monokai Pro theme</b>, adapted for JetBrains by <a href="https://subtheme.dev">Subtheme</a>, forked by <a href="https://github.com/DeltaLaboratory">DeltaLaboratory</a> based on <a href="https://github.com/HikaruHokkyokusei/monokai-pro">patch of HikaruHokkyokusei</a>. This plugin includes the default theme, classic theme, and four filters: Machine, Octagon, Ristretto, and Spectrum. Credit goes to the original designer: <a href="https://monokai.pro">https://monokai.pro</a>.
   <br/><br/>
   An no-italics version is also available. To enable, go to Settings, select Editor/Color Scheme, and choose your preferred Scheme from the dropdown (for example, "Monokai Pro - No Italics").
   <br/><br/>
   Search for <i>Subtheme</i> to find more themes, including <a href="https://plugins.jetbrains.com/plugin/14799-atom-one-theme">Atom One</a>, <a href="https://plugins.jetbrains.com/plugin/14920-solarized-theme">Solarized</a>, and <a href="https://plugins.jetbrains.com/plugin/17418-foundation-theme">Foundation</a>.
   <br/><br/>
-  Contributions are welcome with <a href="https://github.com/subtheme-dev/monokai-pro">GitHub</a>. Screenshots were taken with <a href="https://plugins.jetbrains.com/plugin/10044-atom-material-icons">Atom Material Icons</a> and <a href="https://www.typography.com/fonts/operator/styles">Operator Mono</a>.
+  Contributions are welcome with <a href="https://github.com/DeltaLaboratory/monokai-pro">GitHub</a>. Screenshots were taken with <a href="https://plugins.jetbrains.com/plugin/10044-atom-material-icons">Atom Material Icons</a> and <a href="https://www.typography.com/fonts/operator/styles">Operator Mono</a>.
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-small.png" border="0" width="360"/><br/>
-  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-machine-small.png" border="0" width="360"/><br/>
-  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-octagon-small.png" border="0" width="360"/><br/>
-  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-ristretto-small.png" border="0" width="360"/><br/>
-  <img src="https://raw.githubusercontent.com/subtheme-dev/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-spectrum-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/DeltaLaboratory/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/DeltaLaboratory/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-machine-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/DeltaLaboratory/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-octagon-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/DeltaLaboratory/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-ristretto-small.png" border="0" width="360"/><br/>
+  <img src="https://raw.githubusercontent.com/DeltaLaboratory/monokai-pro/master/theme/jetbrains/screenshots/monokai-pro-spectrum-small.png" border="0" width="360"/><br/>
   ]]>
   </description>
 
